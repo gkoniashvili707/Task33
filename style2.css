@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color:rgba(0, 0, 0, 0.034) !important;
+}
+
+.custom-navbar {
+    background-color: #007bffc0 !important;
+}
+
+.passive-navbar{
+    color: rgba(255, 255, 255, 0.596) !important;
+
+}
+
+.passive-navbar:hover{
+    color: white !important;
+}
+
+
+.cards{
+    padding-left: 120px;
+    padding-top: 20px;
+    padding-right: 120px;
+
+}
+
+.title{
+    margin-left: -120px;
+    color: rgba(0, 0, 0, 0.759);
+
+}
+.text{
+    margin-left: -120px;
+    color: rgba(0, 0, 0, 0.759);
+}
+
+.buttons{
+    margin-left: -120px;
+    margin-top: 20px;
+
+}
+
+.title2{
+    color: rgba(0, 0, 0, 0.759);
+
+}
+
+ul :hover{
+    background-color: #106cfc;
+    cursor: pointer;
+    color: white;
+}

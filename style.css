@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color:rgba(0, 0, 0, 0.034) !important;
+}
+
+.custom-navbar {
+    background-color: #007bffc0 !important;
+}
+
+.passive-navbar{
+    color: rgba(255, 255, 255, 0.596) !important;
+
+}
+
+.passive-navbar:hover{
+    color: white !important;
+}
+
+.buttons{
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 10px;
+}
+
+.searchbox{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 10px;
+}
+
+.cards{
+    padding: 20px 110px 20px 110px;
+    row-gap: 20px;
+}
+
+.pagination{
+    margin-left: 110px;
+}

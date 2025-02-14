@@ -1,0 +1,48 @@
+.text{
+    margin-left: -100px;
+    color: rgb(74, 71, 71);
+}
+.custom-navbar {
+    background-color: #ebecedc0 !important;
+    margin-bottom: 20px;
+}
+
+.passive-navbar{
+    color: rgba(53, 52, 52, 0.596) !important;
+}
+
+.passive-navbar:hover{
+    color: rgb(0, 0, 0) !important;
+}
+
+.middle-text{
+    color: rgba(0, 0, 0, 0.793);
+    background-color: rgba(21, 21, 20, 0.089);
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.button-buy{
+    margin-top: 20px;
+}
+
+.card{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.navbar{
+    margin-left: 10px;
+    color: rgb(74, 71, 71);
+}
+
+.main{
+    padding-left: 20px;
+    padding-right: 20px;
+}
